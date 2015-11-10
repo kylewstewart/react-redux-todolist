@@ -1,0 +1,35 @@
+{
+  "name": "react-redux-todolist",
+  "version": "1.0.0",
+  "description": "Simple Todo List app to test React and Redux",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtoso/react-redux-todolist.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Mattia Toso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtoso/react-redux-todolist/issues"
+  },
+  "homepage": "https://github.com/mtoso/react-redux-todolist#readme",
+  "dependencies": {
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "react-redux": "^4.0.0",
+    "redux": "^3.0.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "webpack": "^1.12.3"
+  }
+}
